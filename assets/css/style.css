@@ -1,0 +1,40 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+    
+a {
+    color: white;
+}
+
+h6, .card-text  {
+    color: #707070;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+h6 {
+    text-align: start;
+}
+
+.precio {
+    font-weight: 300;
+    color: #707070;
+    margin: auto;
+    font-size: 13px;
+    padding-top: 3px;
+}
+
+.oferta {
+    font-weight: 500;
+    margin: auto;
+    font-size: 16px;
+}
+
+.border {
+    border-bottom: solid;
+}
+
+.text-footer {
+    text-align: center;
+}
